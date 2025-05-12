@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "question": "What is Firebase Authentication and how is it used in React?",
+      "answer": "Firebase Authentication is a service provided by Google to authenticate users in apps. In React, it is commonly used with the Firebase SDK to manage user login, registration, and logout functionality. It supports multiple authentication methods such as email/password, Google, Facebook, etc. Once authenticated, Firebase provides a user object that can be accessed throughout the application.",
+      "date": "Added at 2024-08-12"
+    },
+    {
+      "id": 2,
+      "question": "What is a Private Route in React and why is it used?",
+      "answer": "A Private Route in React is a route that is only accessible to authenticated users. It helps protect pages or components that should not be viewed without proper authentication. It is usually implemented using React Router by checking the user's authentication status before rendering the component.",
+      "date": "Added at 2024-01-21"
+    },
+    {
+      "id": 3,
+      "question": "How is animation implemented in React applications?",
+      "answer": "Animations in React can be implemented using libraries like Framer Motion, React Spring, or CSS transitions. Framer Motion is particularly popular for its declarative syntax and flexibility. Animations are often used for improving user experience by adding transitions, fade-ins, slide-ins, and more.",
+      "date": "Added at 2023-05-28"
+    },
+    {
+      "id": 4,
+      "question": "What is a Slider in React and how is it used?",
+      "answer": "A Slider in React is a UI component that allows users to view multiple items by sliding them horizontally or vertically. It is often used in image galleries, product showcases, or carousels. Libraries like Swiper.js or custom logic with CSS and React state are commonly used to build sliders.",
+      "date": "Added at 2025-09-17"
+    }
+  ]
+  

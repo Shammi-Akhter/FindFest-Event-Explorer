@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "https://i.postimg.cc/8z8SWGcY/card-1.webp",
+    "name": "Tech Innovators Meetup",
+    "category": "Tech",
+    "date": "2025-06-15",
+    "location": "Bashundhara Convention Hall, Dhaka, Bangladesh",
+    "entryFee": "Free",
+    "description": "A gathering of developers, entrepreneurs, and tech enthusiasts to discuss the latest in technology and innovation."
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://i.postimg.cc/cJ0G9cQM/card-2.jpg",
+    "name": "Urban Art Festival",
+    "category": "Art",
+    "date": "2025-06-20",
+    "location": "Shilpakala Academy Prangon, Chittagong, Bangladesh",
+    "entryFee": "$10",
+    "description": "Experience a vibrant celebration of contemporary urban art, featuring graffiti, installations, and live performances."
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://i.postimg.cc/g0sFf6s9/card-3.jpg",
+    "name": "Summer Beats Concert",
+    "category": "Music",
+    "date": "2025-06-25",
+    "location": "Sylhet Multipurpose Stadium, Sylhet, Bangladesh",
+    "entryFee": "$15",
+    "description": "A high-energy concert featuring popular bands and solo artists to kick off the summer vibe."
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://i.postimg.cc/nzLbZcSX/card-4.jpg",
+    "name": "National Hackathon 2025",
+    "category": "Tech",
+    "date": "2025-07-01",
+    "location": "Varendra Auditorium, Rajshahi, Bangladesh",
+    "entryFee": "Free",
+    "description": "A nationwide coding challenge bringing together developers to solve real-world problems using technology."
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://i.postimg.cc/gJB90F1N/card-5.jpg",
+    "name": "Handcraft Expo",
+    "category": "Craft",
+    "date": "2025-07-05",
+    "location": "Khulna Trade Center, Khulna, Bangladesh",
+    "entryFee": "$5",
+    "description": "Explore and shop a variety of handmade goods by local artisans, including pottery, jewelry, and home decor."
+  },
+  {
+    "id": 6,
+    "thumbnail": "https://i.postimg.cc/1Xgkn7QP/card-6.jpg",
+    "name": "International Film Festival",
+    "category": "Film",
+    "date": "2025-07-10",
+    "location": "Star Cineplex, Dhaka, Bangladesh",
+    "entryFee": "$12",
+    "description": "A showcase of international and local films, celebrating diverse storytelling through cinema."
+  }
+]
