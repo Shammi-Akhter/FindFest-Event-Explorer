@@ -69,21 +69,10 @@ npm run dev
 ```
 This will install the frontend dependencies and start the client on http://localhost:5173 (default Vite port).
 
-### 3️⃣ Set Up the Server
-Open a new terminal tab or window, then run:
-
-```bash
-cd server
-npm install
-npm run start
-```
-This will install the backend dependencies and start the server on http://localhost:5000 or your configured port.
-
-### 4️⃣ Configure Environment Variables
+### 3️⃣ Configure Environment Variables
 Set up your .env files for both client and server with:
 
 ✅ Firebase credentials (for authentication) <br>
-✅ MongoDB connection URI (for backend database) <br>
 ⚠️ Without these, Firebase Auth and database features won't function properly.
 
 
