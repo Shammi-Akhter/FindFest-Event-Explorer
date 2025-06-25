@@ -48,3 +48,55 @@
 | 🎠 **slick-carousel**     | CSS/JS for the slick slider               |
 | 🌀 **aos**                | Animate On Scroll library                 |
 | 🎯 **react-scroll**       | Scroll to elements smoothly              |
+---
+
+## 🛠️ How to Run Locally
+
+Follow these steps to run the project on your local machine:
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/findfest.git
+cd findfest
+
+```
+### 2️⃣ Set Up the Client
+```bash
+cd client
+npm install
+npm run dev
+```
+This will install the frontend dependencies and start the client on http://localhost:5173 (default Vite port).
+
+### 3️⃣ Set Up the Server
+Open a new terminal tab or window, then run:
+
+```bash
+cd server
+npm install
+npm run start
+```
+This will install the backend dependencies and start the server on http://localhost:5000 or your configured port.
+
+### 4️⃣ Configure Environment Variables
+Set up your .env files for both client and server with:
+
+✅ Firebase credentials (for authentication) <br>
+✅ MongoDB connection URI (for backend database) <br>
+⚠️ Without these, Firebase Auth and database features won't function properly.
+
+
+---
+
+
+## 📸 Application Screenshots
+
+<p align="center">
+  <img src="" width="65%">
+  <img src="" width="65%">
+  <img src="" width="45%">
+  <img src="" width="100%">
+</p>
+
+---
