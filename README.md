@@ -93,10 +93,10 @@ Set up your .env files for both client and server with:
 ## 📸 Application Screenshots
 
 <p align="center">
-  <img src="" width="65%">
-  <img src="" width="65%">
-  <img src="" width="45%">
-  <img src="" width="100%">
+  <img src="https://i.postimg.cc/k5ctPWpD/findfest-1.png" width="65%">
+  <img src="https://i.postimg.cc/KYZRfR8b/findfest-2.png" width="65%">
+  <img src="https://i.postimg.cc/xdtq4nXz/findfest-3.png" width="65%">
+  <img src="https://i.postimg.cc/ThMPDP4Z/findfest-4.png" width="45%">
 </p>
 
 ---
